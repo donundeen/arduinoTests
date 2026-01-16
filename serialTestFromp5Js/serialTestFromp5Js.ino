@@ -7,7 +7,7 @@ int ledPin = LED_BUILTIN;
 // https://forum.arduino.cc/t/serial-input-basics-updated/382007/3#p-2780919-example-5-receiving-and-parsing-several-pieces-of-data-3
 
 
-
+ 
 AsyncTimer t;
 unsigned short intervalId;
 
